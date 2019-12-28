@@ -43,7 +43,7 @@ namespace SimpleAPI.Controllers
         [HttpGet]
         public string GetValue()
         {
-            return "James";
+            return "Sree";
         }
     }
 }
