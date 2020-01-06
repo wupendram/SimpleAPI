@@ -18,7 +18,7 @@ namespace SimpleAPI.Tests
         public void GetReturnsCorrectNumber()
         {
             var returnValue = weatherForecastController.GetValue();
-            Assert.Equal("Sree", returnValue);
+            Assert.Equal("SreeSree", returnValue);
         }
 
     }
